@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Tveter Gard logo icon</title>
+  <desc id="desc">A thin black circle containing a curved oat stem and a hanging black grain head.</desc>
+  <rect width="512" height="512" fill="#fff"/>
+  <circle cx="256" cy="256" r="211" fill="none" stroke="#111" stroke-width="14"/>
+  <path d="M107 118c43-41 109-33 136 21 10 20 12 39 8 55" fill="none" stroke="#111" stroke-width="10" stroke-linecap="round"/>
+  <g fill="#111">
+    <path d="M256 190c-11 31-17 66-17 103 0 39 7 75 22 108 12-34 18-70 18-106 0-39-8-74-23-105z"/>
+    <path d="M243 207c-28 36-48 78-58 126-5 25-5 51 0 78 22-29 40-64 54-105 12-35 18-68 17-99h-13z"/>
+    <path d="M269 207c28 36 48 78 58 126 5 25 5 51 0 78-22-29-40-64-54-105-12-35-18-68-17-99h13z"/>
+    <path d="M256 196c-7 22-10 45-10 69 0 24 3 48 10 72 7-24 10-48 10-72 0-24-3-47-10-69z"/>
+  </g>
+  <g fill="none" stroke="#fff" stroke-width="9" stroke-linecap="round">
+    <path d="M256 218c0 47 1 94 5 139"/>
+    <path d="M244 224c-9 49-25 93-47 133"/>
+    <path d="M268 224c9 49 25 93 47 133"/>
+  </g>
+</svg>
